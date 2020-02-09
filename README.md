@@ -15,6 +15,7 @@ Sample website with plenty of files for demos
 This is a simple web project, deployment can be on any web server or even on the file system.
 
 ## How to contribute?
+Please fork this repository and then issue pull request for review.
 
 ### COpyright
 2020 Git Training
