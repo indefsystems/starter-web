@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how to use Git and Github together. Adding a line fore rebasing example.
-More chages from myfeature branch
+More chages from myfeature branch. Doing an emergency fix afrter stash.
 
 ## Introduction
 
